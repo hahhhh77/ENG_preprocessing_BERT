@@ -1,13 +1,13 @@
 # 데이터 전처리 및 BERT 학습을 위한 데이터 형태 변형 
 
-## 본 연구는 영어 데이터의 다양한 전처리 과정을 다루고, 전처리된 데이터를 BERT 감정 분석 학습을 위하여 데이터 형태를 변형하는 방법에 대해서 다룹니다. 
+### 본 연구는 영어 데이터의 다양한 전처리 과정을 다루고, 전처리된 데이터를 BERT 감정 분석 학습을 위하여 데이터 형태를 변형하는 방법에 대해서 다룹니다. 
 
-## 본 연구는 크게 두 가지 절차로 진행됩니다. 
+### 본 연구는 크게 두 가지 절차로 진행됩니다. 
 
-## Step 1. Eng_preprocessing (트위터 데이터 전처리)  
+### Step 1. Eng_preprocessing (트위터 데이터 전처리)  
 
-### - Jupyter notebook으로 진행
-### - 트위터 데이터 출처 : https://github.com/akanshajainn/Sentiment-Analysis-Twitter-word2vec-keras
+#### - Jupyter notebook으로 진행
+#### - 트위터 데이터 출처 : https://github.com/akanshajainn/Sentiment-Analysis-Twitter-word2vec-keras
 
 
 ## Step 2. BERT_Model_Tutorial (전처리한 데이터 형태 변형)
