@@ -10,17 +10,17 @@
 #### - 트위터 데이터 출처 : https://github.com/akanshajainn/Sentiment-Analysis-Twitter-word2vec-keras
 
 
-## Step 2. BERT_Model_Tutorial (전처리한 데이터 형태 변형)
+### Step 2. BERT_Model_Tutorial (전처리한 데이터 형태 변형)
 
-### - GPU 사용을 위해서 구글 colab으로 진행 
+#### - GPU 사용을 위해서 구글 colab으로 진행 
 
-### - 본 코드는 하위 자료를 참조하여 구성하였습니다
+#### - 본 코드는 하위 자료를 참조하여 구성하였습니다
 
-### 1) 2020 전산언어학 겨울학교, 고려대학교 언어정보연구소 계산의미론연구실
+#### 1) 2020 전산언어학 겨울학교, 고려대학교 언어정보연구소 계산의미론연구실
 
-### 2) https://www.kaggle.com/samarthsarin/bert-with-transformers
+#### 2) https://www.kaggle.com/samarthsarin/bert-with-transformers
 
-### 3) https://mccormickml.com/2019/07/22/BERT-fine-tuning/
+#### 3) https://mccormickml.com/2019/07/22/BERT-fine-tuning/
 
 
 ### - 전처리 전 데이터 및 전처리 후 데이터는 아래 사이트에서 다운 받으시길 바랍니다. 
