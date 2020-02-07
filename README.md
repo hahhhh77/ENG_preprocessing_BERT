@@ -30,4 +30,4 @@
 
 
 ### - 코드에 필요한 데이터는 아래 홈페이지에서 다운 받으시길 바랍니다. 
-### 	http://bit.ly/2urHVUS
+### 	http://bit.ly/3bliiFZ
